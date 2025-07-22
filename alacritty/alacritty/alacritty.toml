@@ -1,0 +1,18 @@
+[window]
+
+opacity = 0.9
+
+padding.x = 10
+padding.y = 10
+
+decorations = "Full"
+decorations_theme_variant = "Light" # "Dark"
+
+[font]
+
+normal.family = "Comic Mono"
+bold.family = "Comic Mono"
+italic.family = "Comic Mono"
+bold_italic.family = "Comic Mono"
+
+size = 15.0
